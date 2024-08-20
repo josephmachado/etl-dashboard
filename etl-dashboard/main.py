@@ -79,7 +79,7 @@ def clean_exchange_data(data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 # %%
 # No load, since we are presenting this as an UI
 
-# %% [markdown] jp-MarkdownHeadingCollapsed=true
+# %% [markdown]
 # ## ETL Run
 
 # %%
@@ -95,7 +95,7 @@ exchange_data = clean_exchange_data(get_exchange_data(url))
 # %% [markdown]
 # Start a simple FastHTML serve to display a plotly chart of the pulled bitcoin exchange data
 
-# %%
+# %% editable=true slideshow={"slide_type": ""}
 import json
 from fasthtml.common import * 
 
