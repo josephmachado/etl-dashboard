@@ -12,5 +12,6 @@ jupyter lab
 
 Start Webserver as shown below
 
-[Start webserver via Python](./assets/videos/literateprog.mp4)
-
+<a href="https://www.youtube.com/watch?v=ainpZTzFlGE" target="_blank">
+  <img src="https://img.youtube.com/vi/ainpZTzFlGE/0.jpg" alt="Watch the video" width="600" />
+</a>
